@@ -1,4 +1,4 @@
-- 👋 Hi, Pi the Trash Panda here @NormalityFailed
+- 👋 Hi, I'm @NormalityFailed
 - 👀 I’m interested in digging through the garbage, and the not-so-garbage to find the good data
 - 🌱 I’m currently learning R, SQL, git, APIs, web scraping, and data viz
 - 📫 For tips on good-ish data, you can reach me at normality dot failed at gmail
